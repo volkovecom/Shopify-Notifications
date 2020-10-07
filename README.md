@@ -1,1 +1,1 @@
-# Shopify-Notifications
+# Shopify Notifications
